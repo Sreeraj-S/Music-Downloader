@@ -3,9 +3,8 @@ Download music from internet
 
  !!!! Not build to exe file !!!!
  
- 1.Python
- 
- 2.FFmpeg
+ 1. Python
+ 2. FFmpeg
  
  Download the zip.
  
@@ -32,10 +31,13 @@ Download music from internet
 # How To Use
 ------------
 1. Download Music using Song name
+
 ![image](https://user-images.githubusercontent.com/56246216/125608094-e71bdb92-ba66-4623-a657-d564de3b979a.png)
 
 2. Download Music using Spotify link (playlist, album, song)
+
 ![image](https://user-images.githubusercontent.com/56246216/125608481-93de3c9d-e0d0-4c17-ae4f-250b54b8a358.png)
 
-3.Change the downloading folder
+3. Change the downloading folder
+
 ![image](https://user-images.githubusercontent.com/56246216/125608944-fcd89ace-84a2-4675-ba15-42f33cf71dcd.png)
