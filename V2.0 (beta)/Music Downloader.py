@@ -58,7 +58,7 @@ class Application(tk.Frame):
         self.msga(out.decode('utf-8'))
         
 
-    
+
 root = tk.Tk()
 app = Application(master=root)
 app.mainloop()
