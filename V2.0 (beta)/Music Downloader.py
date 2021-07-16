@@ -2,7 +2,7 @@ import tkinter as tk
 import os
 import subprocess
 
-os.chdir('C:\\Users\\Admin\\Music\\Music')
+#os.chdir('C:\\Users\\Admin\\Music\\Music')
 
 class Application(tk.Frame):
     def __init__(self, master=None):
