@@ -7,7 +7,7 @@ import subprocess
 import time
 from tkinter.constants import HORIZONTAL
 from typing import Text
-os.chdir('C:\\Users\\Admin\\Music\\Music')
+#os.chdir('C:\\Users\\Admin\\Music\\Music')
 
 """
 ---------------------------------------------------
@@ -41,7 +41,7 @@ class Application(tk.Frame):
 
         self.L3 = tk.Label(self, text="Directory" )
         self.L3.grid(row= 1, column=0)
-        self.L4 = tk.Label(self, text='C:\\')
+        self.L4 = tk.Label(self, text=os.getcwd())
         self.L4.grid(row=1, column=1)
         self.B2 = tk.Button(self, text='Browse', command=self.open_folder)
         self.B2.grid(row=1,column=2)
@@ -58,7 +58,7 @@ class Application(tk.Frame):
     def open_folder(self):
         self.folderDir = filedialog.askdirectory()
         if self.folderDir is None:
-            self.folderDir='C:\\'
+            self.folderDir=os.getcwd()
         self.L4.config(text=self.folderDir)
         
     def cmdDown(self,song):
