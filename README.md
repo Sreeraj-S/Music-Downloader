@@ -32,7 +32,7 @@ This is in Beta version therefore there will be bugs
  
  and enter
 
-# How To Use
+# How To Use (Till Version 2.0 (beta)... From Version 2.0 (beta) Onwards UI is added)
 ------------
 1. Download Music using Song name
 
