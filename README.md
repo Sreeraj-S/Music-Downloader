@@ -7,7 +7,7 @@ This is in Beta version therefore there will be bugs
 
  !!!! Not build to exe file !!!!
  
- 1. Python
+ 1. Python 3.6 or greater
  2. FFmpeg
  
  Download the zip.
