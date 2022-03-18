@@ -3,7 +3,7 @@ Download music from internet
 
 Warning !!!
 
-This is in Beta version therefore there will be bugs
+This is in Alpha version therefore there will be bugs
 
  !!!! Not build to exe file !!!!
  
@@ -32,7 +32,7 @@ This is in Beta version therefore there will be bugs
  
  and enter
 
-# How To Use (Till Version 2.0 (beta)... From Version 2.0 (beta) Onwards UI is added)
+# How To Use (Till Version 2.0 (alpha-beta)... From Version 2.0 (alpha-beta) Onwards UI is added)
 ------------
 1. Download Music using Song name
 
